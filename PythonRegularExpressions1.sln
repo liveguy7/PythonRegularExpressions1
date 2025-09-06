@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonRegularExpressions1", "PythonRegularExpressions1\PythonRegularExpressions1.pyproj", "{FCCA4FC7-035F-4B40-BE30-FFCF0E4CAFE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCA4FC7-035F-4B40-BE30-FFCF0E4CAFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCA4FC7-035F-4B40-BE30-FFCF0E4CAFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C149D0B-5C3C-48D1-8A1E-EC03500BC0AB}
+	EndGlobalSection
+EndGlobal
